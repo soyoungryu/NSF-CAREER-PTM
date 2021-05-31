@@ -7,8 +7,8 @@ The research goal of this project is to develop statistical and computational me
 ## People
 **So Young Ryu**: Principal Investigator
 
-**Sijia Qiu**: Graduate Student (2021 - )
+**Sijia Qiu**: Graduate Student (2021 - present)
 
-**Gabriella Goodwin**: Graduate Student (2021 - )
+**Gabriella Goodwin**: Graduate Student (2021 - present)
 
-**Jacob Tucker**: Undergraduate Student (2021 - )
+**Jacob Tucker**: Undergraduate Student (2021 - present)
