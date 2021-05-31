@@ -1,4 +1,5 @@
 # NSF-CAREER-PTM
+The results of NSF CAREER project can be found in this directory. 
 ## Award Title
 ### CAREER: Bioinformatic algorithm and infrastructure development for post-translational modification analysis
 ## Abstract
