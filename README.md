@@ -1,7 +1,7 @@
 # NSF-CAREER-PTM
-##CAREER: Bioinformatic algorithm and infrastructure development for post-translational modification analysis
-###The results of NSF CAREER project can be found in this directory.
-
+## CAREER: Bioinformatic algorithm and infrastructure development for post-translational modification analysis
+### The results of NSF CAREER project can be found in this directory.
+---------------------
 ## Abstract
 Protein post translational modifications (PTMs) play important roles in many aspects of cell biology, including cell growth, differentiation, and survival. Due to the complex nature of PTMs (e.g., various PTM types and sites), there have to date been limitations in the technology used for PTM identification/quantification. This project will overcome such challenges by developing bioinformatic methods that incorporate unique characteristics of data and fully utilize publicly available data, providing comprehensive characterization and quantification of PTMs. This development will enhance fundamental understanding of functional proteomics in many biological areas, including plant science, biomedicine, and microbiology. Bioinformatic tools generated from the research component of this project will be re-designed as an interactive educational app. Through the associated outreach activities using this app, the project will provide valuable interdisciplinary training to both graduate and undergraduate students, including first-generation college, low-income, and minority students, and inspire high school students to pursue STEM majors.
 
