@@ -1,5 +1,6 @@
 # NSF-CAREER-PTM
-CAREER: Bioinformatic algorithm and infrastructure development for post-translational modification analysis \newline
+CAREER: Bioinformatic algorithm and infrastructure development for post-translational modification analysis
+
 **The results of NSF CAREER project can be found in this directory.** 
 
 ## Abstract
