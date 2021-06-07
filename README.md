@@ -11,15 +11,15 @@ ______________________
 ## People
 **So Young Ryu**: Principal Investigator 
 
-**Riley Brenner**: Full-time Postbacc Reseracher (August 1, 2021 - present)
+**Riley Brenner**: Full-time Postbacc Reseracher 
 
-**Sijia Qiu**: Graduate Student (August 1, 2021 - present)
+**Sijia Qiu**: Graduate Student 
 
-**Gabriella Goodwin**: Graduate Student (August 1, 2021 - present)
+**Gabriella Goodwin**: Graduate Student 
 
-**Jacob Tucker**: Undergraduate Student (August 1, 2021 - present)
+**Jacob Tucker**: Undergraduate Student 
 
-**Kurtis Bertauche**: Undergraduate Student (August 1, 2021 - present)
+**Kurtis Bertauche**: Undergraduate Student
 
 __________________________
 
