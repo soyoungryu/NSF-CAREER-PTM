@@ -24,9 +24,11 @@ ______________________
 __________________________
 
 ## Products
-### PTM Simulator
+### PTM Mass Spectrum Predictor
 Coming soon...
-### PTM FDR Estimation
+### PTM Mass Spectrum Simulator
+Coming soon...
+### PTM Identification FDR Estimation
 Coming soon...
 ### PTM Missing Value Imputation
 Coming soon...
