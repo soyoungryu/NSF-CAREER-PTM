@@ -13,13 +13,15 @@ ______________________
 
 **Riley Brenner**: Full-time Postbacc Reseracher 
 
-**Sijia Qiu**: Graduate Student 
+**Sijia Qiu**: Graduate Student (MS, Biostatistics)
 
-**Gabriella Goodwin**: Graduate Student 
+**Gabriella Goodwin**: Graduate Student (MS, Biostatistics)
 
-**Jacob Tucker**: Undergraduate Student 
+**Jacob Tucker**: Undergraduate Student (BS, Computer Science)
 
-**Kurtis Bertauche**: Undergraduate Student
+**Kurtis Bertauche**: Undergraduate Student (BS, Computer Science)
+
+**Alexandra Choi**: High School Student
 
 __________________________
 
