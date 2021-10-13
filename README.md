@@ -38,7 +38,8 @@ Coming soon...
 _____________________________
 ## Outreach Activities
 ### PTM Educational Vidoes
-Part I. (Biological Background) https://youtu.be/7lhpbWQTpDE
+Part I. What is Post-Translational Modification? 
+https://youtu.be/7lhpbWQTpDE
 ### Educational PTM Simulator Apps
 Coming soon...
 __________________________
