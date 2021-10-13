@@ -38,7 +38,7 @@ Coming soon...
 _____________________________
 ## Outreach Activities
 ### PTM Educational Vidoes
-#### Part I. What is Post-Translational Modification? [Video](https://youtu.be/7lhpbWQTpDE)
+#### Part I. [What is Post-Translational Modification?](https://youtu.be/7lhpbWQTpDE)
 #### Part II. Coming Soon.
 ### Educational PTM Simulator Apps
 Coming soon...
