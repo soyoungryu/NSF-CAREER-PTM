@@ -27,15 +27,13 @@ ______________________
 
 __________________________
 
-## Products
-### PTM Mass Spectrum Predictor
-Coming soon...
-### PTM Mass Spectrum Simulator
-Coming soon...
-### PTM Identification FDR Estimation
-Coming soon...
-### Missing Value Imputation
-Coming soon...
+## Publications
+
+Brenner, R., Bertauche, K., Choi, A., and Ryu, S., (In Press). VA-PRT: A Visualization Tool for Analyzing Post-translational Modification Retention Times. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine. 
+
+__________________________
+
+## Software
 
 _____________________________
 ## Outreach Activities
