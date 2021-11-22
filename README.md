@@ -31,10 +31,6 @@ __________________________
 
 Brenner, R., Bertauche, K., Choi, A., and Ryu, S., (In Press). VA-PRT: A Visualization Tool for Analyzing Post-translational Modification Retention Times. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine. 
 
-__________________________
-
-## Software
-
 _____________________________
 ## Outreach Activities
 ### PTM Educational Vidoes
