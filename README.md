@@ -21,6 +21,8 @@ ______________________
 
 **Kurtis Bertauche**: Undergraduate Student (BS, Computer Science)
 
+**Korben DiArchangel**: Undergraduate Student (BS, Computer Science)
+
 **Alexandra Choi**: High School Student
 
 __________________________
