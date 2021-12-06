@@ -32,12 +32,6 @@ __________________________
 Brenner, R., Bertauche, K., Choi, A., and Ryu, S., (In Press). VA-PRT: A Visualization Tool for Analyzing Post-translational Modification Retention Times. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine. 
 
 _____________________________
-## Posters/Presentations
-
-Qiu, S. and Ryu, S. (Forthcoming) Developing an evaluation strategy for missing data imputation in mass spectrometry data analysis. PSB 2022 Poster. 
-
-Brenner, R., Bertauche, K., Choi, A., and Ryu, S. (2021) VA-PRT: A Visualization Tool for Analyzing Post-translational Modification Retention Times. BIBM 2021 Poster.
-_____________________________
 
 ## Outreach Activities
 ### PTM Educational Vidoes
