@@ -11,19 +11,19 @@ ______________________
 ## People
 **So Young Ryu**: Principal Investigator 
 
-**Riley Brenner**: Full-time Postbacc Reseracher 
+**Riley Brenner**: Full-time Postbacc Reseracher. 2021-present. 
 
-**Sijia Qiu**: Graduate Student (MS, Biostatistics)
+**Sijia Qiu**: Graduate Student (MS, Biostatistics). 2021-present.
 
-**Gabriella Goodwin**: Graduate Student (MS, Biostatistics)
+**Gabriella Goodwin**: Graduate Student (MS, Biostatistics). 2021-present.
 
-**Jacob Tucker**: Undergraduate Student (BS, Computer Science)
+**Jacob Tucker**: Undergraduate Student (BS, Computer Science). 2021.
 
-**Kurtis Bertauche**: Undergraduate Student (BS, Computer Science)
+**Kurtis Bertauche**: Undergraduate Student (BS, Computer Science). 2021-present.
 
-**Korben DiArchangel**: Undergraduate Student (BS, Computer Science)
+**Korben DiArchangel**: Undergraduate Student (BS, Computer Science). 2021-present.
 
-**Alexandra Choi**: High School Student
+**Alexandra Choi**: High School Student. 2021-present.
 
 __________________________
 
@@ -36,7 +36,8 @@ _____________________________
 ## Outreach Activities
 ### PTM Educational Vidoes
 #### Part I. [What is Post-Translational Modification?](https://youtu.be/7lhpbWQTpDE)
-#### Part II. Coming Soon.
+#### Part II. [Mass Spectrometry and Bioinformatics in PTM Analysis](https://youtu.be/tta85sXilXs)
+#### Part III. [Mass Spectrometry in Proteomics - Interview with Dr. David Quilici](https://youtu.be/vJkDnqxY4Nc)
 ### Educational PTM Simulator Apps
 Coming soon...
 __________________________
