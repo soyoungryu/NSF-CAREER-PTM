@@ -38,8 +38,9 @@ _____________________________
 #### Part I. [What is Post-Translational Modification?](https://youtu.be/7lhpbWQTpDE)
 #### Part II. [Mass Spectrometry and Bioinformatics in PTM Analysis](https://youtu.be/tta85sXilXs)
 #### Part III. [Mass Spectrometry in Proteomics - Interview with Dr. David Quilici](https://youtu.be/vJkDnqxY4Nc)
-### Educational PTM Simulator Apps
-Coming soon...
+### Educational MS Games
+[Educational MS Proteomics Games](https://ryu-computational-group.itch.io/mass-spectrometry-educational-game)
+Description: This Educational Games contains three parts: 1) Amino Acid Collector, 2) Protein Slicer, and 3) Mass Spectrometry Marathon. 
 __________________________
 *This material is based upon work supported by the National Science Foundation under Grant No. 2046122. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.* 
 
