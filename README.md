@@ -11,19 +11,21 @@ ______________________
 ## People
 **So Young Ryu**: Principal Investigator 
 
-**Riley Brenner**: Full-time Postbacc Reseracher. 2021-present. 
-
-**Sijia Qiu**: Graduate Student (MS, Biostatistics). 2021-present.
-
 **Gabriella Goodwin**: Graduate Student (MS, Biostatistics). 2021-present.
 
-**Jacob Tucker**: Undergraduate Student (BS, Computer Science). 2021.
+**Cariley Henke**: Graduate Student (MS, Biostatistics). 2022-present. 
 
 **Kurtis Bertauche**: Undergraduate Student (BS, Computer Science). 2021-present.
 
-**Korben DiArchangel**: Undergraduate Student (BS, Computer Science). 2021-present.
-
 **Alexandra Choi**: High School Student. 2021-present.
+
+**Riley Brenner**: Full-time Postbacc Reseracher. 2021-2022. 
+
+**Sijia Qiu**: Graduate Student (MS, Biostatistics). 2021-2022.
+
+**Korben DiArchangel**: Undergraduate Student (BS, Computer Science). 2021-2022.
+
+**Jacob Tucker**: Undergraduate Student (BS, Computer Science). 2021.
 
 __________________________
 
@@ -31,6 +33,7 @@ __________________________
 
 Brenner, R., Bertauche, K., Choi, A., and Ryu, S., 2021. VA-PRT: A Visualization Tool for Analyzing Post-translational Modification Retention Times. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine. [(Accepted Version)](https://github.com/soyoungryu/NSF-CAREER-PTM/blob/dc67585ba8568b663fc6dc123d3c5f352217101f/Papers/P202_Brenner_VAPRT_BIBM_AcceptedVersion.pdf)
 
+Goodwin, G., and Ryu, S., (Submitted). Understanding the Odds: Statistics in Public Health.
 _____________________________
 
 ## Outreach Activities
@@ -39,8 +42,8 @@ _____________________________
 #### Part II. [Mass Spectrometry and Bioinformatics in PTM Analysis](https://youtu.be/tta85sXilXs)
 #### Part III. [Mass Spectrometry in Proteomics - Interview with Dr. David Quilici](https://youtu.be/vJkDnqxY4Nc)
 ### Educational MS Games
-[Educational MS Proteomics Games](https://ryu-computational-group.itch.io/mass-spectrometry-educational-game)
-Description: This Educational Games contains three parts: 1) Amino Acid Collector, 2) Protein Slicer, and 3) Mass Spectrometry Marathon. 
+#### [Educational MS Proteomics Games](https://ryu-computational-group.itch.io/mass-spectrometry-educational-game)
+##### Description: This Educational Games contains three parts: 1) Amino Acid Collector, 2) Protein Slicer, and 3) Mass Spectrometry Marathon. 
 __________________________
 *This material is based upon work supported by the National Science Foundation under Grant No. 2046122. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.* 
 
