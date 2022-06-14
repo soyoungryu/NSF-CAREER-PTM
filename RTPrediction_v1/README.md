@@ -25,7 +25,14 @@ phosphorylation modifications.
 ### Files
 Each model is contained within its own script. Inside of each script is both the training and tuning procedure for each model as well as the evalutation for each model. In addtion to the model files, there are also files for other miscellaneous tasks, such as splitting the data and creating other file formats.
 
-### References
+### Main Developer
+Kurtis Bertauche
+
+### Related Reference
+
+Bertauche, K., Choi, A., and Ryu, S., (Submitted) Predicting Retention Times of Post-translationally Modified Peptides Using Machine Learning Techniques.
+
+### Other References
 
 Bouwmeester, R., Gabriels, R., Hulstaert, N., et al. (2021). Deeplc can predict retention times for peptides188
 that carry as-yet unseen modifications. Nat Methods, 18:1363–1369.189
